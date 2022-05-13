@@ -16,9 +16,12 @@ https://user-images.githubusercontent.com/60311148/168393846-37de4ad2-bfda-4fce-
 
 2) A web application site which showcasing I possess the techincal skill to handle API/HTTP request, which you request.
 
+https://github.com/fffilps/free-quiz-game
 
-3) Me showcasing that I have done both made a beatiful, working app and used an external API/HTTP to populate the app. 
 
+3) Me showcasing that I have done both made a beatiful, working app and used an external API/HTTP to populate the app. Its a messaging app that speaks to and gets responses from the database.
+
+https://github.com/fffilps/iOSCourseProjects/tree/master/Flash-Chat-iOS13
 
 
 - J'mari Wyatt
